@@ -18,7 +18,12 @@
     "npm-shrinkwrap.json"
   ],
   "scripts": {
-    "lint": "eslint lib"
+    "lint": "eslint lib && jscs lib",
+    "download": "node lib/worm-scraper.js download",
+    "convert": "node lib/worm-scraper.js convert",
+    "scaffold": "node lib/worm-scraper.js scaffold",
+    "zip": "node lib/worm-scraper.js zip",
+    "start": "npm run download && npm run convert && npm run scaffold && npm run zip"
   },
   "dependencies": {
     "archiver": "^3.1.1",
