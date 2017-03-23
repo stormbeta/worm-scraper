@@ -1,9 +1,9 @@
 {
   "name": "worm-scraper",
-  "description": "Scrapes the web serial Twig into an eBook format",
+  "description": "Scrapes the web serial Pact into an eBook format",
   "keywords": [
     "ebook",
-    "twig",
+    "pact",
     "scraper",
     "wildbow"
   ],

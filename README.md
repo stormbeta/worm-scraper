@@ -1,6 +1,6 @@
-# _Twig_ Scraper
+# _Pact_ Scraper
 
-Scrapes the web serial [_Twig_](https://twigserial.wordpress.com/) into an eBook format.
+Scrapes the web serial [_Pact_](https://pactwebserial.wordpress.com/) into an eBook format.
 
 Based on Domenic's [original scraper](https://github.com/domenic/worm-scraper) for the Worm serial
 
