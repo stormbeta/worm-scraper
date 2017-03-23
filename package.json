@@ -1,11 +1,11 @@
 {
   "name": "worm-scraper",
-  "description": "Scrapes the web serial Worm into an eBook format",
+  "description": "Scrapes the web serial Twig into an eBook format",
   "keywords": [
     "ebook",
-    "worm",
-    "parahuman",
-    "scraper"
+    "twig",
+    "scraper",
+    "wildbow"
   ],
   "version": "1.0.0",
   "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
