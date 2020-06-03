@@ -2,6 +2,8 @@
 
 Scrapes the web serial [_The Wandering Inn_](https://wanderinginn.com/) into an eBook format.
 
+NOTE: Work-in-progress, there's some errors in the resulting output still
+
 Based on Domenic's [original scraper](https://github.com/domenic/worm-scraper) for the Worm serial
 
 ## How to use
