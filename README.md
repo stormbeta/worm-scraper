@@ -1,10 +1,18 @@
-# _The Wandering Inn_ Scraper
+# _A Practical Guide to Evil_ generator
 
-Scrapes the web serial [_The Wandering Inn_](https://wanderinginn.com/) into an eBook format.
+Scrapes the web serial [_A Practical Guide to Evil_](https://practicalguidetoevil.wordpress.com/) into an eBook format.
 
-NOTE: Work-in-progress, there's some errors in the resulting output still
+NOTE: Work-in-progress, there's probably some errors in the resulting output still, and you'll want
+to do a reconvert via Calibre if you want font/text size control
+
+**NOTE: Please do not distribute any epubs created via this script, the
+author explicitly requests none be created. This is only intended for
+personal use by people like me who strongly prefer to read stories
+offline using dedicated reader applications.**
 
 Based on Domenic's [original scraper](https://github.com/domenic/worm-scraper) for the Worm serial
+
+(everything below this line is from Domenic's work, not my own)
 
 ## How to use
 
